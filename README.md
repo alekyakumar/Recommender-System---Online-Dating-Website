@@ -1,2 +1,2 @@
 # Recommender-System
-Recommender system which comes up with suggestions for choosing a partner for a date based on the likings and similarities of the users.
+Recommender system which provides suggestions on choosing a partner based on the interests the users exhibit and similarities among the users.
